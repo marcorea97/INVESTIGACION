@@ -1,8 +1,9 @@
 # INVESTIGACION
-¿Qué es una tarjeta de adquisición de datos?
+**¿Qué es una tarjeta de adquisición de datos?**
 
 Una tarjeta de adquisición de datos (DAQ) es un hardware que permite medir fenómenos físicos o eléctricos con una computadora. Su función es transformar las señales del mundo real en códigos digitales para que el sistema digital pueda comprenderlos. 
 Las tarjetas de adquisición de datos están compuestas por tres partes principales: Circuito de acondicionamiento de señales, Convertidor analógico-digital (ADC), Bus del ordenador. 
+
 Los sistemas de adquisición de datos tienen varias capacidades, como:
 1.	Registro de datos
 2.	Almacenamiento de datos
@@ -11,7 +12,8 @@ Los sistemas de adquisición de datos tienen varias capacidades, como:
 5.	Análisis de datos
 6.	Generación de informes 
 Las tarjetas de adquisición de datos se utilizan en diversas industrias y centros de investigación científica, especialmente en los sistemas de registro, monitoreo y control de temperatura.
-¿Qué es un HMI?
+**¿Qué es un HMI?**
+
 Un HMI (Human Machine Interface) es un sistema que permite a los usuarios interactuar con máquinas, software o sistemas. Se trata de un panel de instrumentos que se utiliza para controlar y coordinar procesos industriales y de fabricación. 
 Los HMI tienen las siguientes características:
 1.	Permiten mostrar información operativa en tiempo real. 
@@ -22,7 +24,8 @@ Los HMI tienen las siguientes características:
 6.	Se integran con sistemas MOM (Manufacturing Operations Management) y MES (Manufacturing Execution System). 
 Los HMI se utilizan en entornos industriales y son la principal herramienta de los operarios y supervisores. Algunos ejemplos de interfaces hombre-máquina son los teclados y las pantallas táctiles.
 
-Elementos de un sistema de adquisición.
+**Elementos de un sistema de adquisición.**
+
 Los elementos de un sistema de adquisición de datos son:
 Sensores: Dispositivos que transforman fenómenos de la realidad, como la temperatura o el movimiento, en una señal eléctrica.
 Acondicionador de señal: Dispositivo que filtra la señal analógica captada por los sensores antes de convertirla en información digital.
@@ -32,7 +35,7 @@ Los sistemas de adquisición de datos (DAQ) pueden ser módulos simples o autón
 Los sistemas de adquisición de datos se utilizan para recopilar información para documentar o analizar un fenómeno. Por ejemplo, un técnico que registra la temperatura de un horno en un papel está realizando una toma de datos
 
 
-¿Qué es un sensor y los diferentes sensores que existe?
+**¿Qué es un sensor y los diferentes sensores que existe?**
 
 Un sensor es un dispositivo que detecta y responde a información del entorno físico. Los sensores pueden captar estímulos como la vista, el tacto, el olfato, el oído o el gusto. 
 Los sensores se clasifican de acuerdo a diferentes criterios, como:
@@ -55,7 +58,7 @@ Algunos ejemplos de sensores son:
 10.	Sensor de velocidad 
 Los sensores son herramientas que se utilizan en la vida diaria y en la automatización industrial
 
-¿Qué es un acondicionador de señal y los diferentes tipos que existen?
+**¿Qué es un acondicionador de señal y los diferentes tipos que existen?**
 
 Un acondicionador de señal es un dispositivo que modifica una señal electrónica para convertirla en otra, y que puede cumplir con diversas funciones: 
 Amplificación: Aumenta la magnitud de la señal 
@@ -67,3 +70,7 @@ Los acondicionadores de señal pueden ser de diferentes tipos, dependiendo de la
 Riel DIN: Es un formato resistente que se puede usar para varios acondicionadores de señal
 Tarjeta madre posterior: Todas las señales de salida son accesibles por un conector común 
 Los acondicionadores de señal son necesarios porque los sensores pueden o no tener electrónica incorporada
+
+#TRABO REALIZADO POR 
+**Marco Antonio Rea Martínez**
+
